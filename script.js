@@ -28,12 +28,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- MAGAZINE LOGIC ---
     const catalogImages = [
-        'precios-arte_page-0001.jpg',
-        'precios-arte_page-0002.jpg',
-        'precios-arte_page-0003.jpg',
-        'precios-arte_page-0004.jpg',
-        'precios-arte_page-0005.jpg',
-        'precios-arte_page-0006.jpg'
+        'precios-arte_page-0006.webp',
+        'precios-arte_page-0002.webp',
+        'precios-arte_page-0003.webp',
+        'precios-arte_page-0004.webp',
+        'precios-arte_page-0005.webp',
+        'precios-arte_page-0006.webp'
     ];
 
     function initMagazine() {
